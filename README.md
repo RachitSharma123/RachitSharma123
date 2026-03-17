@@ -16,6 +16,8 @@ Based in Melbourne, Australia. Master of Business Analytics. 5+ years across hea
 
 **Life-Control** — Multi-agent coordination platform running 8 Telegram bots (finance, wellness, career, productivity) with shared SQLite data layer, cron scheduling, and CLI-based agent management.
 
+**Stacked Up HQ** — 5-agent AI influencer marketing platform built for a real agency. Agents handle brand research, creator discovery (YouTuber scouting), quality control, and outreach drafting in an automated pipeline with Telegram integration and a live dashboard. Client acquired 5 new clients through the system.
+
 **ClientOnboard** — Production full-stack onboarding platform built for a real business. Next.js, TypeScript, Tailwind, Prisma, NextAuth, TanStack Query. Role-based access, real-time sync, admin dashboard. Deployed on Vercel + PostgreSQL.
 
 ---
@@ -57,7 +59,7 @@ Based in Melbourne, Australia. Master of Business Analytics. 5+ years across hea
 ### Beyond Code
 
 - Deployed Ollama 32B parameter AI model on local hardware
-- Built agentic AI workflows for real businesses
+- Built a 5-agent AI marketing platform that helped a client acquire 5 new customers
 - Open-source contributor (ClawHub skills framework)
 - Lost 54kg in 8 months through disciplined systems thinking
 - Regular blood donor and animal shelter supporter
