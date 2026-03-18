@@ -138,7 +138,7 @@ I'm currently working on **AI-powered Resume Automation** - building tools to au
 
 &nbsp;
 
-🐍 &nbsp;Contribution Snake 
+## 🐍 &nbsp;Contribution Snake 
 <div align="center">
 
   <picture>
