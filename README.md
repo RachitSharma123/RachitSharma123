@@ -20,7 +20,7 @@
 <!-- ====== ANIMATED WELCOME ====== -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Calypso+Developer+%7C+Tech+Enthusiast;Based+in+Melbourne+%F0%9F%A6%98" alt="Welcome Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;AI+Developer/Architect+%7C+Tech+Enthusiast;Based+in+Melbourne+%F0%9F%A6%98" alt="Welcome Banner" />
   
 </div>
 
