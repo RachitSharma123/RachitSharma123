@@ -1,74 +1,237 @@
-# Hey, I'm Rachit
+<!-- 
+  ============================================
+  🔥 RACHIT SHARMA'S GITHUB PROFILE README
+  ============================================
+  Features from jvillegasd + CyrisXD combined!
+-->
 
-**Analytics Engineer | AI Automation Builder | Full-Stack Developer**
+<!-- ====== HEADER BANNER ====== -->
+<img src="https://github.com/RachitSharma123/RachitSharma123/raw/master/header.gif" alt="Hey there, I'm Rachit! I'm a software developer, a maker and tech enthusiast. Check out my work" width="100%">
 
-I build systems that work while I sleep. From AI-powered job application pipelines to multi-agent orchestration platforms, I turn ideas into production-grade software.
+<!-- ====== SOCIAL BADGES (CyrisXD Style) ====== -->
+<div align="center">
+  
+  [![GitHub followers](https://img.shields.io/github/followers/RachitSharma123?logo=GitHub&style=for-the-badge&color=blue)](https://github.com/RachitSharma123)
+  [![GitHub Stars](https://img.shields.io/github/stars/RachitSharma123?logo=github&style=for-the-badge&color=yellow)](https://github.com/RachitSharma123)
+  [![Profile Views](https://komarev.com/ghpvc/?username=RachitSharma123&color=blueviolet&style=for-the-badge&logo=github)](https://github.com/RachitSharma123)
+  
+</div>
 
-Based in Melbourne, Australia. Master of Business Analytics. 5+ years across healthcare, banking, and enterprise IT.
+<!-- ====== ANIMATED WELCOME ====== -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Rachit+Sharma;Calypso+Developer+%7C+Tech+Enthusiast;Based+in+Melbourne+%F0%9F%A6%98" alt="Welcome Banner" />
+  
+</div>
 
----
+<!-- ====== ABOUT SECTION (CyrisXD Style) ====== -->
+## 👋 &nbsp;Hi there
 
-### What I Build
+I'm a software developer based in **Melbourne, Australia** 🦘. Currently working as a **Calypso Developer at HCA**. I enjoy coding open-source projects and building cool stuff with AI. Love automating things and creating unique solutions. Will see where the wind takes me! 🌬️
 
-**Job Hunter** — AI pipeline that scrapes 50+ jobs daily from Adzuna, Seek, and Careerjet. Uses DeepSeek V3 to generate ATS-optimised resumes, cover letters, interview prep, and fit scores. Renders professional PDFs, uploads to Google Drive, logs to Sheets, and sends Telegram notifications. Runs daily at 4AM, zero manual intervention.
+&nbsp;
 
-**OpenClaw** — Self-hosted AI agent gateway managing 8+ specialised agents across multiple LLM providers (Claude, DeepSeek, Moonshot). Handles routing, failover, OAuth token management, and cost optimisation. Deployed on Linux with systemd.
+## 👇 &nbsp;Current Focus
 
-**Life-Control** — Multi-agent coordination platform running 8 Telegram bots (finance, wellness, career, productivity) with shared SQLite data layer, cron scheduling, and CLI-based agent management.
+I'm currently working on **AI-powered Resume Automation** - building tools to automate the job hunt process using Python, AI/ML, and modern web technologies.
 
-**Stacked Up HQ** — 5-agent AI influencer marketing platform built for a real agency. Agents handle brand research, creator discovery (YouTuber scouting), quality control, and outreach drafting in an automated pipeline with Telegram integration and a live dashboard. Client acquired 5 new clients through the system.
+&nbsp;
 
-**ClientOnboard** — Production full-stack onboarding platform built for a real business. Next.js, TypeScript, Tailwind, Prisma, NextAuth, TanStack Query. Role-based access, real-time sync, admin dashboard. Deployed on Vercel + PostgreSQL.
+## 🎵 &nbsp;Now Playing
 
----
+<div align="center">
+  
+  <!-- Spotify Now Playing Widget - Setup Instructions Below -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
+  </a>
+  
+  <!-- 
+  Alternative self-hosted option (like jvillegasd):
+  <a href="https://spotify.yourdomain.com/?opened">
+    <img src="https://spotify.yourdomain.com" width="341" height="571" alt="Now Playing"/>
+  </a>
+  -->
+  
+</div>
 
-### Tech Stack
+&nbsp;
 
-**Languages:** Python, TypeScript, JavaScript, SQL
+## 🧰 &nbsp;My Toolbox
 
-**Data:** Pandas, NumPy, SQL (CTEs, Window Functions), Power BI, Tableau, ETL Pipelines
+<div align="center">
 
-**AI/ML:** DeepSeek API, OpenAI API, Claude API, Ollama (32B local deployment), Multi-Agent Orchestration
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
-**Web:** Next.js, React, Tailwind CSS, Prisma ORM, REST APIs
+<!-- Frameworks & Libraries -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss-2.svg" alt="TailwindCSS" width="50" height="50"/>
 
-**Cloud & Infra:** AWS, Azure, Google Cloud APIs (Drive, Sheets, Gmail, Calendar), OAuth 2.0, Linux Server Admin, systemd, cron, n8n
+<!-- Databases -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 
-**Tools:** Git, JIRA, ServiceNow, Confluence, Agile, ITIL
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 
----
+</div>
 
-### Career
+&nbsp;
 
-| When | Where | What |
-|------|-------|------|
-| 2024 – Now | Healthcare Australia | ICT Data Analyst — automated reporting, SLA dashboards, root-cause analysis |
-| 2023 – 2024 | Office Choice Ltd | Data & Systems Analyst — owned reporting pipeline, SQL quality checks |
-| 2022 – 2023 | Melbourne Institute of Technology | Systems Analyst & Programmer — automated data extraction, system analytics |
-| 2021 – 2022 | Emirates NBD, Dubai | IT & Data Analyst — Tier-1 banking analytics, compliance reporting |
+## 🖥 &nbsp;Featured Projects
 
----
+<div align="center">
+  
+  <!-- Project 1: AI-Resume2 -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=AI-Resume2&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/AI-Resume2)
+  
+  <!-- Project 2: ClientOnboard -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=ClientOnboard&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/ClientOnboard)
+  
+  <!-- Project 3: ARCard -->
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=ARCard&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/ARCard)
+  
+</div>
 
-### Education
+&nbsp;
 
-- **Master of Business Analytics** — Melbourne Institute of Technology, Australia
-- **B.E. Computer Science Engineering** — SRM University, India
+## 📊 &nbsp;GitHub Stats
 
----
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://github-readme-stats.vercel.app/api?username=RachitSharma123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
+  </a>
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachitSharma123&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF&count_private=true" alt="GitHub Streak" height="180"/>
+  </a>
+  
+</div>
 
-### Beyond Code
+<div align="center">
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="450"/>
+  </a>
+  
+</div>
 
-- Deployed Ollama 32B parameter AI model on local hardware
-- Built a 5-agent AI marketing platform that helped a client acquire 5 new customers
-- Open-source contributor (ClawHub skills framework)
-- Lost 54kg in 8 months through disciplined systems thinking
-- Regular blood donor and animal shelter supporter
-- Took parents to Lakshadweep Islands, fully self-funded
+&nbsp;
 
----
+## 🏆 &nbsp;Trophies
 
-### Let's Connect
+<div align="center">
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RachitSharma123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
+  </a>
+  
+</div>
 
-- **Email:** sharmarachit923@gmail.com
-- **LinkedIn:** [linkedin.com/in/rachit-sharma-0b9b44117](https://www.linkedin.com/in/rachit-sharma-0b9b44117/)
-- **Location:** Melbourne, VIC, Australia
+&nbsp;
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+  
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RachitSharma123&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  </a>
+  
+</div>
+
+&nbsp;
+
+## 💬 &nbsp;Random Dev Quote
+
+<div align="center">
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600"/>
+  
+</div>
+
+&nbsp;
+
+## 🤝 &nbsp;Connect With Me
+
+<div align="center">
+  
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+</div>
+
+&nbsp;
+
+<!-- ====== FOOTER ====== -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=500&lines=Thanks+for+visiting!+⭐;Feel+free+to+check+out+my+repos" alt="Footer" />
+  
+  <br/><br/>
+  
+  <a href="https://github.com/RachitSharma123/RachitSharma123">
+    <img src="https://img.shields.io/badge/If_you_liked_this_profile-Leave_a_⭐-yellow?style=for-the-badge" alt="Star"/>
+  </a>
+  
+</div>
+
+<!--
+============================================
+  🚀 SETUP INSTRUCTIONS
+============================================
+
+1. CREATE YOUR PROFILE REPOSITORY:
+   - Go to GitHub → New Repository
+   - Name: RachitSharma123 (exactly your username)
+   - Make it Public
+   - Add this README.md
+
+2. SPOTIFY NOW PLAYING WIDGET:
+   
+   Option A (Easiest - Used in this README):
+   - Go to: https://github.com/kittinan/spotify-github-profile
+   - Replace YOUR_SPOTIFY_USER_ID with your Spotify ID
+   - Your Spotify ID: Open Spotify → Profile → Share → Copy URI
+   
+   Option B (Self-hosted like jvillegasd):
+   - Deploy: https://github.com/nickyoutdev/nickyoutdev
+   - Requires Vercel/Docker hosting
+   - More customizable
+
+3. HEADER GIF:
+   - Create a custom GIF or use a service like:
+     - https://github.com/DenverCoder1/github-readme-typing-svg
+     - Canva/GIMP for custom images
+   - Upload to your repo as header.gif
+
+4. CUSTOMIZE BADGES:
+   - Update LinkedIn URL
+   - Add your email
+   - Add Twitter if you have one
+
+============================================
+-->
