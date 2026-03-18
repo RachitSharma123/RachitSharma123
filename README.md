@@ -37,25 +37,16 @@ I'm currently working on **AI-powered Resume Automation** - building tools to au
 
 &nbsp;
 
-## 🎵 &nbsp;Now Playing
-
+🎵 &nbsp;Now Playing 
 <div align="center">
-  
-  <!-- Spotify Now Playing Widget - Setup Instructions Below -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u65nxjtlqhawps3hyeolzy33ga&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u65nxjtlqhawps3hyeolzy33ga&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
+
+  <a href="https://open.spotify.com/user/31u65nxjtlqhawps3hyeolzy33ga">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u65nxjtlqhawps3hyeolzy33ga&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
   </a>
-  
-  <!-- 
-  Alternative self-hosted option (like jvillegasd):
-  <a href="https://spotify.yourdomain.com/?opened">
-    <img src="https://spotify.yourdomain.com" width="341" height="571" alt="Now Playing"/>
-  </a>
-  -->
-  
+
 </div>
 
-&nbsp;
+&nbsp; 
 
 ## 🧰 &nbsp;My Toolbox
 
