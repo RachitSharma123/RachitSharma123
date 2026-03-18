@@ -125,18 +125,6 @@ I'm currently working on **AI-powered Resume Automation** - building tools to au
 
 &nbsp;
 
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RachitSharma123&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" width="100%"/>
-  </a>
-  
-</div>
-
-&nbsp;
-
 ## 📈 &nbsp;Activity Graph
 
 <div align="center">
