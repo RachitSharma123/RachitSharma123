@@ -42,8 +42,8 @@ I'm currently working on **AI-powered Resume Automation** - building tools to au
 <div align="center">
   
   <!-- Spotify Now Playing Widget - Setup Instructions Below -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u65nxjtlqhawps3hyeolzy33ga&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u65nxjtlqhawps3hyeolzy33ga&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=1DB954&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
   </a>
   
   <!-- 
@@ -214,7 +214,7 @@ I'm currently working on **AI-powered Resume Automation** - building tools to au
    
    Option A (Easiest - Used in this README):
    - Go to: https://github.com/kittinan/spotify-github-profile
-   - Replace YOUR_SPOTIFY_USER_ID with your Spotify ID
+   - Replace 31u65nxjtlqhawps3hyeolzy33ga with your Spotify ID
    - Your Spotify ID: Open Spotify → Profile → Share → Copy URI
    
    Option B (Self-hosted like jvillegasd):
