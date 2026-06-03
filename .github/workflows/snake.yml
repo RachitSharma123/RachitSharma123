@@ -2,11 +2,9 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-# THIS is the fix: the default GITHUB_TOKEN is read-only,
-# so pushing to the output branch was failing with a 403.
 permissions:
   contents: write
 
@@ -16,17 +14,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # Generates the snake animation SVG
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: RachitSharma123
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color-snake=#58A6FF&color-dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
-      # Push the output to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
