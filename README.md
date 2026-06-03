@@ -70,11 +70,19 @@ AI Automation Engineer based in **Melbourne, Australia** 🦘. I build productio
 ## 🖥 &nbsp;Featured Projects
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=eofy-deal-finder&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/eofy-deal-finder)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=JobyJob&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/JobyJob)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=impact-property-media&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/impact-property-media)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RachitSharma123&repo=neuronmap&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d)](https://github.com/RachitSharma123/neuronmap)
+
+  <a href="https://github.com/RachitSharma123/eofy-deal-finder">
+    <img src="https://gh-card.dev/repos/RachitSharma123/eofy-deal-finder.svg?fullname=1" alt="eofy-deal-finder"/>
+  </a>
+  <a href="https://github.com/RachitSharma123/JobyJob">
+    <img src="https://gh-card.dev/repos/RachitSharma123/JobyJob.svg?fullname=1" alt="JobyJob"/>
+  </a>
+  <a href="https://github.com/RachitSharma123/impact-property-media">
+    <img src="https://gh-card.dev/repos/RachitSharma123/impact-property-media.svg?fullname=1" alt="impact-property-media"/>
+  </a>
+  <a href="https://github.com/RachitSharma123/neuronmap">
+    <img src="https://gh-card.dev/repos/RachitSharma123/neuronmap.svg?fullname=1" alt="neuronmap"/>
+  </a>
 
 </div>
 
@@ -83,23 +91,27 @@ AI Automation Engineer based in **Melbourne, Australia** 🦘. I build productio
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  
+
   <a href="https://github.com/RachitSharma123">
-    <img src="https://github-readme-stats.vercel.app/api?username=RachitSharma123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RachitSharma123&theme=github_dark" alt="GitHub Stats" height="180"/>
   </a>
-  
+
   <a href="https://github.com/RachitSharma123">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachitSharma123&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF&count_private=true" alt="GitHub Streak" height="180"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RachitSharma123&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currLabel=58A6FF" alt="GitHub Streak" height="180"/>
   </a>
-  
+
 </div>
 
 <div align="center">
-  
+
   <a href="https://github.com/RachitSharma123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachitSharma123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=FFFFFF" alt="Top Languages" width="450"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RachitSharma123&theme=github_dark" alt="Top Languages" height="180"/>
   </a>
-  
+
+  <a href="https://github.com/RachitSharma123">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RachitSharma123&theme=github_dark" alt="Most Used Languages" height="180"/>
+  </a>
+
 </div>
 
 &nbsp;
